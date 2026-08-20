@@ -18,6 +18,9 @@ author:
   employer: "University of California, Davis"
   uri: "http://communication.ucdavis.edu"
   github: "cuihuash"
+  linkedin: "cuihua-cindy-shen-phd-a3a158"
+  googlescholar: "https://scholar.google.com/citations?user=qoj5YaYAAAAJ&hl=en"
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0003-1645-8211"
 
 breadcrumbs: false
 read_more: "enabled"
@@ -55,3 +58,4 @@ defaults:
       author_profile: true
       share: false
       comments: false
+
