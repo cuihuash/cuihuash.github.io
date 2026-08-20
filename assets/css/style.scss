@@ -3,9 +3,18 @@
 
 @import "{{ site.theme }}";
 
+header img {
+  width: 180px;
+  height: 180px;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 .site-nav {
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
   margin: 1rem 0 1.5rem;
 }
+
