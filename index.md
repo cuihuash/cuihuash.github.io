@@ -23,5 +23,3 @@ I received my Ph.D. in 2010 from the [Annenberg School for Communication & Journ
 
 [View my current CV](https://docs.google.com/document/d/1j1TRCktNG3WEjcUOdUKNM2jHC1HCQn0fzxyAwB_Cifw/edit?usp=sharing){: .btn }
 
-I’d love to hear from you. Please use the contact information on my department profile.
-
