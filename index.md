@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Home
+layout: single
+title: "Cuihua (Cindy) Shen"
+permalink: /
+author_profile: true
 ---
 
 # Cuihua (Cindy) Shen
@@ -23,4 +25,4 @@ I received my Ph.D. in 2010 from the [Annenberg School for Communication & Journ
 
 [View my current CV](https://docs.google.com/document/d/1j1TRCktNG3WEjcUOdUKNM2jHC1HCQn0fzxyAwB_Cifw/edit?usp=sharing){: .btn }
 
-I’d love to hear from you. Drop me a line at shencuihua AT gmail dot com.
+I’d love to hear from you. Please use the contact information on my department profile.

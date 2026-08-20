@@ -1,6 +1,57 @@
-title: Cuihua (Cindy) Shen, Ph.D.
-logo: /assets/cuihua-shen.jpg
-description: Professor of Communication at the University of California, Davis.
-theme: jekyll-theme-minimal
-show_downloads: false
-google_analytics:
+remote_theme: academicpages/academicpages.github.io
+
+locale: "en-US"
+site_theme: "default"
+title: "Cuihua (Cindy) Shen, Ph.D."
+title_separator: "-"
+name: "Cuihua (Cindy) Shen"
+description: "Professor of Communication at the University of California, Davis."
+url: "https://cuihuash.github.io"
+baseurl: ""
+repository: "cuihuash/cuihuash.github.io"
+
+author:
+  avatar: "https://cuihuash.github.io/assets/cuihua-shen.jpg"
+  name: "Cuihua (Cindy) Shen"
+  bio: "Professor of Communication at the University of California, Davis."
+  location: "Davis, California"
+  employer: "University of California, Davis"
+  uri: "http://communication.ucdavis.edu"
+  github: "cuihuash"
+
+breadcrumbs: false
+read_more: "enabled"
+words_per_minute: 160
+future: true
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      share: false
+      comments: false

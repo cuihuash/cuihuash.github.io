@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: "https://docs.google.com/document/d/1j1TRCktNG3WEjcUOdUKNM2jHC1HCQn0fzxyAwB_Cifw/edit?usp=sharing"
+  - title: "Resources"
+    url: /resources/

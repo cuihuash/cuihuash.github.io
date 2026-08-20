@@ -1,21 +1,22 @@
 ---
-layout: default
+layout: single
 title: Resources
 permalink: /resources/
+author_profile: true
 ---
 
 # Resources
 
 ## General advice for graduate students
 
-- [Should you go to grad school?](http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school) â€” Advice from renowned network scientist [Duncan Watts](http://research.microsoft.com/en-us/people/duncan/).
-- [The PhD Grind](http://www.pgbovine.net/PhD-memoir.htm) â€” A 122-page memoir of Philip Guoâ€™s PhD career in computer science.
-- [The Professor Is In](http://theprofessorisin.com/) â€” An excellent resource by Karen Kelsky, former tenured professor and academic career coach.
-- [Pearls of Wisdom](http://theprofessorisin.com/pearlsofwisdom/) â€” Professionalization advice from The Professor Is In.
-- Sterneâ€™s collection of [academic professionalization resources](http://sterneworks.org/academe/).
-- [Ph.Do](https://www.insidehighered.com/career-advice/phdo) â€” Eszter Hargittaiâ€™s advice column on professionalism.
-- [Get a life, PhD](http://getalifephd.blogspot.ca/) â€” Advice on writing, working effectively, and professionalization.
-- [Academia vs. Industry](http://www.ladamic.com/wordpress/?p=681) â€” Lada Adamicâ€™s summary of the pros and cons of both worlds.
+- [Should you go to grad school?](http://www.buzzfeed.com/duncanwatts/should-you-go-to-grad-school) — Advice from renowned network scientist [Duncan Watts](http://research.microsoft.com/en-us/people/duncan/).
+- [The PhD Grind](http://www.pgbovine.net/PhD-memoir.htm) — A 122-page memoir of Philip Guo’s PhD career in computer science.
+- [The Professor Is In](http://theprofessorisin.com/) — An excellent resource by Karen Kelsky, former tenured professor and academic career coach.
+- [Pearls of Wisdom](http://theprofessorisin.com/pearlsofwisdom/) — Professionalization advice from The Professor Is In.
+- Sterne’s collection of [academic professionalization resources](http://sterneworks.org/academe/).
+- [Ph.Do](https://www.insidehighered.com/career-advice/phdo) — Eszter Hargittai’s advice column on professionalism.
+- [Get a life, PhD](http://getalifephd.blogspot.ca/) — Advice on writing, working effectively, and professionalization.
+- [Academia vs. Industry](http://www.ladamic.com/wordpress/?p=681) — Lada Adamic’s summary of the pros and cons of both worlds.
 - [Key books for communication graduate students](http://www.commfox.org/blog/2014/03/01/key-books-for-grad-students-in-communication/).
 
 ## Statistics and related resources
@@ -35,4 +36,4 @@ permalink: /resources/
 - [Getting started with LaTeX](http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
 - [LaTeX tutorial by Andrew Roberts](http://www.andy-roberts.net/writing/latex)
 
-[â† Back to home]({{ '/' | relative_url }})
+[← Back to home]({{ '/' | relative_url }})
