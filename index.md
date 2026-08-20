@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# Cuihua (Cindy) Shen
-
 I am a Professor at the [Department of Communication](http://communication.ucdavis.edu), University of California, Davis, and co-founder of the UC Davis Computational Communication Research Lab ([C-Squared Lab](http://c2.ucdavis.edu)) and the Computational Multimodal Communication ([CMMC](https://sites.google.com/view/cmmclab)) Lab.
 
 My research and teaching interests revolve around the structure and impact of social networks in various online platforms. These sites include social networking apps such as Facebook and WeChat; massively multiplayer online games such as EverQuest II, World of Tanks, and Eve Online; and other online communities designed for collaborative peer production, social support, and political discussion.
@@ -26,3 +24,4 @@ I received my Ph.D. in 2010 from the [Annenberg School for Communication & Journ
 [View my current CV](https://docs.google.com/document/d/1j1TRCktNG3WEjcUOdUKNM2jHC1HCQn0fzxyAwB_Cifw/edit?usp=sharing){: .btn }
 
 I’d love to hear from you. Please use the contact information on my department profile.
+
